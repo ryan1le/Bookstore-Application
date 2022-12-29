@@ -1,0 +1,40 @@
+Name:
+Vile Bodies
+Price:
+10.34
+Name:
+Moby Dick
+Price:
+23.89
+Name:
+The Great Gatsby
+Price:
+67.43
+Name:
+War and Peace
+Price:
+14.99
+Name:
+To Kill a Mockingbird
+Price:
+120.99
+Name:
+Invisible Man
+Price:
+12.99
+Name:
+Hamlet
+Price:
+45.99
+Name:
+Discrete Mathematics, by Anthony Bonato
+Price:
+24.99
+Name:
+Lord of the Flies
+Price:
+34.0
+Name:
+One hundred years of Solitude
+Price:
+50.45
