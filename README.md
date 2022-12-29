@@ -1,2 +1,7 @@
 # Bookstore-Application
-The Final Project for my Object Oriented Engineering Analysis and Design class
+
+### Final project for Object Oriented Eng Analysis and Design     
+
+A single-window GUI based bookstore application that allows customers to purchase books and earn/redeem points. It also features an administrator management system that allows the admin to access two databases: the book inventory and the customer database. Admins have the ability to add, remove books and/or customers from the store with ease. 
+
+Collaborated with the following members:
