@@ -6,7 +6,4 @@ A single-window GUI based bookstore application that allows customers to purchas
 
 The application follows Object Oriented Design principles and different software design patterns.
 
-Collaborated with the following members:
-[Ryan Le]
-[Abhinash Thirulingam]
-[Harish Umapathithasan]
+Collaborated with the following members: Ryan Le, Abhinash Thirulingam, Harish Umapathithasan
